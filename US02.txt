@@ -1,0 +1,2 @@
+Fichero correspondiente al feature US02
+v.2.0
